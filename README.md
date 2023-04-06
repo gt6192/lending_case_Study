@@ -21,6 +21,7 @@
 - More the loan, more the chances of getting charged off if the monthly income is less than 8000.
 - Customers with grade 'C' and higher and has the monthly income below 8000 can possibaly Default the loan.
 - If the persons home is Mortgage already and monthly income is less then 8000 can possibaly default the loan.
+- If the persons 1 or less than 1 year experience can possibaly default the loan.
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
@@ -38,11 +39,4 @@ Give credit here.
 
 
 ## Contact
-Created by [@gt6293] - feel free to contact me!
-
-
-<!-- Optional -->
-<!-- ## License -->
-<!-- This project is open source and available under the [... License](). -->
-
-<!-- You don't have to include all sections - just the one's relevant to your project -->
+Created by [@gt6192] - feel free to contact me!
