@@ -1,5 +1,5 @@
 # Lending Case Study
-> Case study about the bank customers who defaulted their loans.
+> Case study about defaulted loan borrowers.
 
 
 ## Table of Contents
